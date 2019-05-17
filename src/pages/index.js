@@ -86,7 +86,7 @@ const IndexPage = () => (
       </div>
     </div>
 
-    <div class="management">
+    {/* <div class="management">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
@@ -120,7 +120,7 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
 
     <div class="buckets" id="services">
     <div class="container">
